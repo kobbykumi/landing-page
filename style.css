@@ -13,7 +13,7 @@ body {
 .header, .footer {
     display: flex;
     background: #1f2937;
-    padding: 10px 150px;
+    padding: 10px 50px;
     justify-content: space-between;
     flex-wrap: wrap;
     color: #eee;
