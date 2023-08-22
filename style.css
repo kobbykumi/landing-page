@@ -13,7 +13,7 @@ body {
 .header, .footer {
     display: flex;
     background: #1f2937;
-    padding: 10px 40px;
+    padding: 10px 150px;
     justify-content: space-between;
     flex-wrap: wrap;
     color: #eee;
@@ -47,7 +47,7 @@ body {
 
 .navigation .right-links {
     display: flex ;
-    gap: 10px;
+    gap: 30px;
     white-space: nowrap;
 }
 
