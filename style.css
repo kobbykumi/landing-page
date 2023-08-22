@@ -13,7 +13,7 @@ body {
 .header, .footer {
     display: flex;
     background: #1f2937;
-    padding: 10px 50px;
+    padding: 10px 200px;
     justify-content: space-between;
     flex-wrap: wrap;
     color: #eee;
@@ -202,6 +202,17 @@ justify-content: center;
 
 .call-to-action .cta-box .cta-right button {
     background-color: #3882f6;
+    border-radius: 5px;
+    cursor: pointer;
+    border-color: #eee;
+    border-style: solid;
+    color: #eee;
+    font-size: 1.125rem;
+    padding: 8px;
+}
+
+.call-to-action .cta-box .cta-right button:hover {
+    background-color: #0042ac;
     border-radius: 5px;
     cursor: pointer;
     border-color: #eee;
